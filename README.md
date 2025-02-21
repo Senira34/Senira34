@@ -25,3 +25,9 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senira34&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Senira34&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
